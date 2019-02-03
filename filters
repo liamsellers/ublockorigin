@@ -1,0 +1,94 @@
+! SPAM
+www.pinterest.com/*
+secretrune.com/* 
+stackcommerce.com/*
+stacksocial.com/*
+vidora.com/*
+waitbutwhy.com###text-6 > .textwidget
+
+! RECIPE SITES
+www.justonecookbook.com##.floatBottom.nc_wrapper
+www.seriouseats.com##.se-pinit.nav-share
+sortedfood.com###slideOutMenu > .col-lg-12.col-md-12.col-sm-12.col-xs-12 > .col-lg-10.col-md-10.col-sm-10.col-xs-10.navListMagenta
+
+! NEWS SITES
+nationalpost.com##.masthead
+www.forbes.com##fbs-video
+www.wired.com###share-card
+www.wired.com###most-pop
+www.teslarati.com##.ntvClickOut.ntv1074034-274439-33890.ntv-in-article
+www.teslarati.com##.ntv-headline-anchor.ntv_link1054517-274415.ntv_clickout_icon.ntv-headline
+www.teslarati.com##.ntvClickOut.ntv1054517-274415-33890.ntv-boap
+
+! STRAVA
+www.strava.com##.promo-container
+www.strava.com###dorado-module
+www.strava.com###invite-your-friend-module
+www.strava.com##.card-entry.feed-entry.suggested-follows
+www.strava.com##.opt-group.premium
+www.strava.com##.upgrade
+
+! TWITTER
+twitter.com##.trends.Trends.module
+twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module
+twitter.com##.Footer-adsModule.flex-module
+twitter.com##.active.js-moments-tab.moments
+
+! FORUMS
+www.homebrewtalk.com###join_hbt_pop_up
+www.homebrewtalk.com###adabove_narrow_fixed
+www.homebrewtalk.com##.sidebar
+||cdn.homebrewtalk.com/images/dog.png
+||cdn.homebrewtalk.com/images/oldlady2.jpg
+||cdn.homebrewtalk.com/images/panda.jpg
+www.nasaspaceflight.com###l2-whatspopular
+
+! IMGUR
+imgur.com###side-gallery
+imgur.com###cta-container
+
+! REDDIT
+www.reddit.com###chat
+www.reddit.com##.snoovatar-link.linkinfo
+www.reddit.com##.giftgold
+www.reddit.com##.premium-banner-outer
+www.reddit.com##.recommended-link.link
+##.pinterest-link
+www.reddit.com###ad_1
+www.reddit.com##.goldvertisement
+reddit.com/##.trending-subreddits
+www.reddit.com##.author-tooltip
+www.reddit.com##.side > .spacer:nth-of-type(7) > .goldvertisement
+www.reddit.com##.hohoho-header
+||www.redditstatic.com/secret-santa-present.png$image
+||reddit.com/api/request_recommended_link
+www.reddit.com##.request_recommended_link
+www.reddit.com##.recommended-link.link
+www.reddit.com##.hohoho.sidebox
+
+! GOOGLE
+||contacts.google.com/widget/hovercard/v/2$subdocument
+www.google.co.jp###tads
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-video.ytp-ce-element
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
+youtube.com##.video-annotations
+youtube.com##.ytp-cards-button
+youtube.com##.ytp-cards-teaser-box
+
+! GOODREADS
+www.goodreads.com##article
+www.goodreads.com##.siteHeader__topFullImageContainer
+www.goodreads.com##.gr-mediaFlexbox--columnDirection.gr-mediaFlexbox.siteAnnouncement
+
+! FACEBOOK
+www.atlasobscura.com###facebook-page-plugin
+www.facebook.com###stories_pagelet_rhc
+facebook.com##div[id^="hyperfeed_story_id_"]:has(span:has-text(/^d$/))
+facebook.com###pagelet_ego_pane
